@@ -4,18 +4,7 @@
 //
 //  Created by Laura Persichini on 2020-09-24.
 //  Copyright © 2020 Laura Persichini. All rights reserved.
-//
-/*
- Student Name: Laura Persichini
- ID#: 20894127
-  
-  SYDE 121 Assignment #1
-  File Name: a1_q2.cpp
-  
-  I hereby declare that this code, submitted for credit for the course
-  SYDE121, is a product of my own efforts. This coded solution has
-  not been plagiarized from other sources and has not been knowingly
-  plagiarized by others.
+
 
   Project: Sum computation (question #2)
   Purpose: Find the sum of all integers between two given integers.
